@@ -20,7 +20,7 @@ Vortex provides deep visibility into your AI infrastructure, identifying and mit
 
 **Vortex**, our AI-powered AI security tool, empowers your security team with comprehensive, kernel-level visibility into your AI traffic, uncovering potential data leaks and vulnerabilities within your LLM traffic.
 
-- eBPF-powered AI insights
+- eBPF-powered AI visibility and insights
 - Prompt & Response Data Leak Detection
 - Intelligent Confidential-data Leak Detection
 
