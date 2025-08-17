@@ -27,9 +27,5 @@ languages:
     permalinks:
       page:
         posts: /blog/:slug
-        services: /services/:slug
-        products: /webshop/:slug
       section:
         posts: /blog/
-        services: /services/
-        products: /webshop/
