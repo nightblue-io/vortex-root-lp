@@ -1,0 +1,26 @@
+logo_image: /uploads/vortex-txt-transparent.png
+menuitems:
+  - title: Docs
+    link:  /docs/
+  - title: Blog
+    link:  /blog/
+  - title: Company
+    link:  /about/
+  - title: 'T&C'
+    link:  /terms-and-conditions/
+  - title: Contact Us
+    link:  https://forms.gle/4brzs1jAewBgyAWw9
+socials:
+  - title: LinkedIn
+    link: https://www.linkedin.com/company/nightblue-io/
+    logo_image: /img/linkedin.svg
+  - title: Facebook
+    link: /#top
+    logo_image: /img/facebook.svg
+  - title: Twitter
+    link: /#top
+    logo_image: /img/twitter.svg
+  - title: Mastodon
+    link: /#top
+    logo_image: /img/mastodon.svg
+footer_text: This theme is open source. See on [Github](https://github.com/jhvanderschee/hugobricks).

@@ -1,0 +1,73 @@
+logo_image: /uploads/vortex-txt-transparent.png
+# logo_subtitle: Your Enterprise AI Assistant
+dark_header: false
+mobile_view_width: 1100
+menuitems:
+  # - title: Products
+  #   link: /#top
+  #   items:
+  #     - title: Freya
+  #       link: /freya/
+      # - title: AI HR Assistant (Future)
+      #   link: /#top
+      # - title: AI Finance Assistant (Future)
+      #   link: /#top
+      # - title: AI Sales Assistant (Future)
+      #   link: /#top
+      # - title: AI Marketing Assistant (Future)
+      #   link: /#top
+      # - title: Dark nav
+      #   link: /header-darker/
+      # - title: Transparent nav
+      #   link: /header-transparent/
+  # - title: Solutions
+  #   link: /#top
+  #   items:
+  #     - title: About
+  #       link: /about/
+  #     - title: Basic page 1
+  #       link: /basic/
+  #     - title: Basic page 2
+  #       link: /basic2/
+  #     - title: Images
+  #       link: /images/
+  #     - title: Our team
+  #       link: /team/
+  #     - title: Services
+  #       link: /services/
+  #     - title: Blog
+  #       link: /blog/
+  #     - title: Contact us
+  #       link: /contact/
+  #     - title: F.A.Q.
+  #       link: /faq/
+  #     - title: Webshop
+  #       link: /webshop/
+  #     - title: 404 Page
+  #       link: /404.html
+  # - title: Elements
+  #   link: /elements/
+  - title: Docs
+    link: /docs/
+  # - title: Examples
+  #   link: /demo-paragliding/
+  #   items:
+  #     - title: Paragliding
+  #       link: /demo-paragliding/
+  #     - title: Hiking
+  #       link: /demo-hiking/
+  #     - title: Poulterer
+  #       link: /demo-poulterer/
+  #     - title: POS software
+  #       link: /demo-pos/
+  - title: Blog
+    link: /blog/
+  - title: Company
+    link: /about/
+  - title: Contact Us
+    link: https://forms.gle/4brzs1jAewBgyAWw9
+cta:
+  active: true
+  title: Let me try!
+  link: https://vortex-ui.vercel.app/
+# preheader: open Mon-Fri from 9-5
