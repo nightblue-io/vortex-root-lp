@@ -1,6 +1,6 @@
 ---
 title: Introducing Vortex
-image: /uploads/vortex-blog-00001-introducing-vortex.png
+image: /uploads/vortex-intro-03.png
 date: 2025-08-10
 tags:
   - product
