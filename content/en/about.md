@@ -12,7 +12,7 @@ title: About
 
 ##
 
-#### [NightBlue](https://nightblue.io/) is the company behind Vortex.
+[NightBlue](https://nightblue.io/) is the company behind Vortex.
 
 {{< /brick_intro >}}
 
