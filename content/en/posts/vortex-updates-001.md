@@ -14,7 +14,7 @@ Vortex can now run on Kubernetes and normal VMs. It can intercept your LLM promp
 
 For now, it's limited to apps that use OpenSSL behind the scenes (Python, curl), and NodeJS-based apps, which have their own TLS stack. We're working on Go-based apps (which also have their own TLS stack) at the moment, and more, soon.
 
-![](/uploads/vortex-design-01.png)
+![](/uploads/vortex-blog-00002-design.png)
 
 If you're interested in checking this out or want to know more about Vortex, try it out [here](https://vortex-ui.vercel.app/), or contact us [here](https://forms.gle/4brzs1jAewBgyAWw9).
 
